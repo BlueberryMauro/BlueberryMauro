@@ -1,14 +1,9 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0E2427&height=230&section=header&text=Mauro%20Lomeli%20Mu%C3%B1oz&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Intelligent%20Computing%20Engineering&descSize=17&descColor=FFFFFF&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8EDBD6,100:4FBDB6&height=230&section=header&text=Mauro%20Lomeli%20Mu%C3%B1oz&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Intelligent%20Computing%20Engineering&descSize=17&descColor=FFFFFF&descAlignY=58"
     width="100%"
-    alt="Mauro Lomeli Muñoz Banner"
-  />
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=39C5BB&center=true&vCenter=true&width=700&lines=SaaS+Architecture+%7C+Backend+Systems+%7C+Data;Full+Stack+Development+%7C+REST+APIs;Building+Scalable+Software+Solutions"
-    alt="Typing SVG"
+    alt="Mauro Lomeli Muñoz"
   />
 
 </div>
@@ -116,12 +111,14 @@ SQL · Data Pipelines · Full Stack · WebRTC
 <div align="center">
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### SaaS Platforms
 
-Backend architecture, licensing systems, authentication, REST APIs, relational databases and application infrastructure.
+Backend architecture, licensing systems, authentication, REST APIs, relational databases, and application infrastructure.
 
 </td>
 
@@ -129,17 +126,19 @@ Backend architecture, licensing systems, authentication, REST APIs, relational d
 
 ### Data Systems
 
-Data processing pipelines, structured data analysis, SQL workflows and backend data integration.
+Data processing pipelines, structured data analysis, SQL workflows, and backend data integration.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### Full Stack Applications
 
-Web applications, frontend-backend integration, TypeScript systems and real-time communication.
+Web applications, frontend-backend integration, TypeScript systems, and real-time communication.
 
 </td>
 
@@ -147,9 +146,10 @@ Web applications, frontend-backend integration, TypeScript systems and real-time
 
 ### Desktop Software
 
-Desktop applications connected to APIs, databases, authentication services and remote infrastructure.
+Desktop applications connected to APIs, databases, authentication services, and remote infrastructure.
 
 </td>
+
 </tr>
 
 </table>
@@ -161,13 +161,15 @@ Desktop applications connected to APIs, databases, authentication services and r
 <div align="center">
 
   <sub>
-    Scalable systems · Backend architecture · SaaS · Data
+    Scalable Systems · Backend Architecture · SaaS · Data
   </sub>
 
 </div>
 
+<br>
+
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0E2427,100:161B22&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:4FBDB6,100:8EDBD6&height=120&section=footer"
   width="100%"
   alt=""
 />
