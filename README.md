@@ -1,39 +1,48 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=Mauro%20Lomeli%20Mu%C3%B1oz&fontSize=42&fontColor=39C5BB&fontAlignY=40&desc=Intelligent%20Computing%20Engineering&descSize=16&descColor=ffffff&descAlignY=70" alt="Mauro Lomeli Banner" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:F4F7F7&height=220&section=header&text=Mauro%20Lomeli%20Mu%C3%B1oz&fontSize=42&fontColor=161B22&fontAlignY=36&desc=Intelligent%20Computing%20Engineering&descSize=16&descColor=239A92&descAlignY=58" alt="Mauro Lomeli Banner" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=239A92&center=true&vCenter=true&width=600&lines=SaaS+Architect+%7C+Full+Stack+%7C+Data+Analyst;Backend+Systems+%26+Data+Pipelines;Building+Scalable+Software+Solutions" alt="Typing Animation" />
+
 </div>
 
 <br>
 
-**About Me**
+## About Me
 
-Intelligent Computing Engineer with a focus on scalable SaaS architecture and data-driven solutions. Experienced in building robust backend systems, RESTful APIs, and data analysis pipelines.
+Intelligent Computing Engineering student specializing in scalable SaaS architecture, data analysis pipelines, and full-stack backend systems. Focused on designing high-performance RESTful APIs, relational databases, and turning raw data into actionable insights.
 
 <br>
 
-**Tech Stack**
+## Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="400">
-        <b>Backend & SaaS Architecture</b><br><br>
-        <img src="https://skillicons.dev/icons?i=python,java,cpp,rust,php,mysql&theme=dark" alt="Backend Stack" /><br><br>
-        Python, Java, C++, Rust, PHP, MySQL, REST APIs
-      </td>
-      <td align="center" width="400">
-        <b>Data Analysis & Full Stack</b><br><br>
-        <img src="https://skillicons.dev/icons?i=py,sql,js,ts,html,css,git&theme=dark" alt="Data and Full Stack" /><br><br>
-        Python, SQL, JavaScript, TypeScript, HTML, CSS, Git
-      </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td align="center" width="400">
+      <b>Backend & SaaS Architecture</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,java,cpp,rust,php,mysql&theme=light" alt="Backend Stack" /><br><br>
+      Python, Java, C++, Rust, PHP, MySQL, REST APIs
+    </td>
+    <td align="center" width="400">
+      <b>Data Analysis & Full Stack</b><br><br>
+      <img src="https://skillicons.dev/icons?i=py,postgres,js,ts,html,css&theme=light" alt="Data and Full Stack" /><br><br>
+      Python (Data Pipelines), SQL, JavaScript, TypeScript, WebRTC
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br>
 
-**GitHub Stats**
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlueberryMauro&show_icons=true&theme=github_dark_dimmed&bg_color=0d1117&title_color=39C5BB&icon_color=39C5BB&text_color=c9d1d9" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercelapp/api/top-langs/?username=BlueberryMauro&layout=compact&theme=github_dark_dimmed&bg_color=0d1117&title_color=39C5BB&text_color=c9d1d9" height="150" alt="Top Languages" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlueberryMauro&theme=github" height="170" alt="GitHub Stats" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlueberryMauro&theme=github" height="170" alt="Top Languages" />
+
 </div>
